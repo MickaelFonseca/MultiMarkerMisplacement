@@ -1,0 +1,15 @@
+Calibration: {Head flat: true, Left flat foot: true, Right flat foot: true, StaticTrial: 06_00976_04402_20170523-SBNNN-VDEF-03_MIS.C3D}
+Fitting:
+    Trials:
+    - {File: 06_00976_04402_20170523-GBNNN-VDEF-16_MIS.C3D, Mfpa: XX}
+Global: {Marker diameter: 14, Point suffix: '390028'}
+MP:
+    Optional: {InterAsisDistance: 0, LeftAsisTrocanterDistance: 0, LeftKneeFuncCalibrationOffset: 0,
+        LeftShankRotation: 0, LeftThighRotation: 0, LeftTibialTorsion: 0, RightAsisTrocanterDistance: 0,
+        RightKneeFuncCalibrationOffset: 0, RightShankRotation: 0, RightThighRotation: 0,
+        RightTibialTorsion: 0}
+    Required: {Bodymass: 39.0, Height: 1530.0, LeftAnkleWidth: 60.0, LeftElbowWidth: 0,
+        LeftHandThickness: 0, LeftKneeWidth: 90.00000762939453, LeftLegLength: 840.0,
+        LeftShoulderOffset: 0, LeftSoleDelta: 0, LeftWristWidth: 0, RightAnkleWidth: 60.0,
+        RightElbowWidth: 0, RightHandThickness: 0, RightKneeWidth: 90.00000762939453,
+        RightLegLength: 840.0, RightShoulderOffset: 0, RightSoleDelta: 0, RightWristWidth: 0}

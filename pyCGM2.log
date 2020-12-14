@@ -1,0 +1,994 @@
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ
+[pyCGM2-INFO]-cgm1_1-calibrate : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (LKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKAX) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (RKNM) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : Y
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : False
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : YXZ
+[pyCGM2-INFO]-cgm1_1-fitting : [pyCGM2] Sacrum marker detected
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (LPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (LPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-applyTranslators : wantedLabel (RPSI)_origin created
+[pyCGM2-WARNING]-btkTools-applyTranslators : Initial point (SACR) renamed (RPSI)  added into the c3d
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-WARNING]-btkTools-isPointsExist : [pyCGM2] markers (C7) doesn't exist
+[pyCGM2-INFO]-progressionFrame-compute : Progression axis : X
+[pyCGM2-INFO]-progressionFrame-compute : forwardProgression : True
+[pyCGM2-INFO]-progressionFrame-compute : globalFrame : XYZ

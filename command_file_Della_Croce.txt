@@ -1,0 +1,79 @@
+#		COMMAND FILE
+
+Markers: # name of the marker, error direction, segment name and its origin; 3D error definition
+    m1: 
+        name: LASI
+        dir: ML_DP
+        segment_name: PELVIS
+        ori: midASIS
+        misplacement_magnitude:
+            x: None 
+            y: 7.0
+            z: 12.4
+    m2: 
+        name: RASI
+        dir: ML_DP
+        segment_name: PELVIS
+        ori: midASIS
+        misplacement_magnitude:
+            x: None
+            y: 15.2
+            z: 15.0
+    m3: 
+        name: SACR
+        dir: ML_DP
+        segment_name: PELVIS
+        ori: midASIS
+        misplacement_magnitude:
+            x: None
+            y: 13.25
+            z: 15.85
+    m4: 
+        name: LTHI
+        dir: AP_DP
+        segment_name: LFEMUR
+        ori: LHJC
+        misplacement_magnitude:
+            x: 10
+            y: None
+            z: 10
+    m5: 
+        name: LKNE
+        dir: AP_DP
+        segment_name: LFEMUR
+        ori: LHJC
+        misplacement_magnitude:
+            x: 7.7
+            y: None
+            z: 9.8
+    m6: 
+        name: LTIB
+        dir: AP_DP
+        segment_name: LTIBIA
+        ori: LKJC
+        misplacement_magnitude:
+            x: 10
+            y: None
+            z: 10
+    m7: 
+        name: LANK
+        dir: AP_DP
+        segment_name: LTIBIA
+        ori: LKJC
+        misplacement_magnitude:
+            x: 9.3
+            y: None
+            z: 12.1
+    m8: 
+        name: LTOE
+        dir: ML_DP #Taking in consideration the rotation of foot axes in CGM computation
+        segment_name: LFOOT
+        ori: LAJC
+        misplacement_magnitude:
+            x: 8.2
+            y: 7.1
+            z: None
+
+
+
+

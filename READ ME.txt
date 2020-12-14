@@ -1,0 +1,64 @@
+Code works on PC-12963 (HUG)	
+
+	REQUIREMENTS:
+- written in Python 2.7
+- glob
+- os
+- sys
+- numpy : 1.16.4
+- matplotlib : 2.2.3
+- yaml : 5.1.1
+- btk : 2.0.11
+- csv : 1.0
+- itertools
+- pyCGM2_CGM11 : 3.1.5 (march 2019)
+
+
+	IN CURRENT FOLDER:
+- c3d files to compute
+
+- Definition; MAIN_Misplacement; Misplacement; Point_Manipulation; pyCGM_modelling; Rotation_Matrix; Simplify_acq; UserSettings; Write_Result_File; Analysis
+
+- CGM1_1.userSettings
+
+- command_file.txt or command_file_Della_Croce.txt
+
+
+	COMMAND FILES DETAILS:
+command files : definition of markers and errors to misplace
+if both command files, will apply only command_file.txt
+	COMMAND_FILE.TXT: all markers the same errors around a circle. Can apply several magnitudes. 
+Angles 0 pelvis : local direction Y
+Angle 0 femur + tibia + ankle : local directions -X (posterior)
+Angle 0 foot : local direction Y (lateral)
+other angles: in trigonometric direction from position 0.
+
+command_file_Della_Croce.txt: errors personalized for each directions of each markers (values based on Della Croce and al. 1999.)
+
+
+	MAIN_Misplacement DETAILS:
+0. Perparation of c3d files, variables(markers, misplacements), path
+	Get markers to misplace and combinaison of errors
+	Get all static and dynamic files
+	Creation of .txt file with simulation number and combinaison of marker positions associated
+FOR EACH PATIENT :
+	1.get simple c3d files and reference
+		Simplifie static and dynamic files 
+		pyCGM computation for original positions
+		Get initial pyCGM angles (reference)
+		Store misplaced angles in csv files		
+	2.FOR EACH combinaison of misplacement: computation of simulations
+		Creation of new files, new file names
+		Misplace markers
+		Remove virtual markers to compute them again from misplaced marker set
+		pyCGM computation
+		Get new angles 
+		Store new angles in csv files (possible to get 15000 files per folder: uncomment l.137->139 and 211->215)
+	3.Analysis of results
+		
+	
+	FURTHER DETAILS: 
+- can run several patients successively.
+1 dynamic and 1 static file per patient.
+
+- only need to run MAIN_Misplacement.
